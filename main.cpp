@@ -7,5 +7,6 @@ int main(int argc,char* argv[]) {
     printf("func_add(%d,%d) = [%d]\n",a,b,res);
     printf("func_add(%d,%d) = [%d]\n",a,b,res);
     printf("func_add(%d,%d) = [%d]\n",a,b,res);
+    printf("func_add(%d,%d) = [%d]\n",a,b,res);
     return 0;
 }
