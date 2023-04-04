@@ -11,5 +11,6 @@ int main(int argc,char* argv[]) {
     printf("func_add(%d,%d) = [%d]\n master test",a,b,res);
     printf("func_add(%d,%d) = [%d] hot-fix test\n",a,b,res);
     printf("func_add(%d,%d) = [%d] push github test\n",a,b,res);
+    printf("func_add(%d,%d) = [%d] pull github test\n",a,b,res);
     return 0;
 }
